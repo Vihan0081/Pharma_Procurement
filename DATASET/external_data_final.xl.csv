@@ -1,0 +1,61 @@
+Material_Name,Material_Type,Vendor_Name,GMP_Compliance,Specification,Form,Material_Grade,Unit_Price_Latest,Benchmark_Price,Price_Deviation (%),Price_Tier,Currency,Supplier_Portal_Name,Portal_Price,Portal_Currency,Price_Source_Timestamp,Portal_Validation_Status,Portal_Link
+Dimethylformamide,Solvent,Piramal,Yes,EP,Crystalline,LR,39.8,36.98,7.63,High,USD,LabNetwork,35.54,USD,10-07-2025,Valid,https://labnetwork.com/Dimethylformamide
+Dimethylformamide,Solvent,Pcca,Yes,EP,Crystalline,LR,37.2,36.98,7.63,High,USD,LabNetwork,35.54,USD,10-07-2025,Valid,https://labnetwork.com/Dimethylformamide
+Dimethylformamide,Solvent,Cadila Healthcare,Yes,EP,Crystalline,LR,38.9,36.98,7.63,High,USD,LabNetwork,35.54,USD,10-07-2025,Valid,https://labnetwork.com/Dimethylformamide
+Dimethylformamide,Solvent,Mangalam Drugs,Yes,EP,Crystalline,LR,29.5,36.98,7.63,High,USD,LabNetwork,35.54,USD,10-07-2025,Valid,https://labnetwork.com/Dimethylformamide
+Dimethylformamide,Solvent,GlaxoSmithKline,Yes,EP,Crystalline,LR,25.8,36.98,7.63,High,USD,LabNetwork,35.54,USD,10-07-2025,Valid,https://labnetwork.com/Dimethylformamide
+Toluene,Solvent,Zhejiang Hisoar,Yes,AR Grade,Crystalline,Pharma Grade,44.11,48.95,-1.55,Fair,USD,ChemSpider,54.07,USD,27-06-2025,Invalid,https://chemspider.com/Toluene
+Toluene,Solvent,Surajlok Chemicals,Yes,AR Grade,Crystalline,Pharma Grade,46.2,48.95,-1.55,Fair,USD,ChemSpider,54.07,USD,27-06-2025,Invalid,https://chemspider.com/Toluene
+Toluene,Solvent,Cadila,Yes,AR Grade,Crystalline,Pharma Grade,42.1,48.95,-1.55,Fair,USD,ChemSpider,54.07,USD,27-06-2025,Invalid,https://chemspider.com/Toluene
+Toluene,Solvent,Ash Stevens,Yes,AR Grade,Crystalline,Pharma Grade,37.16,48.95,-1.55,Fair,USD,ChemSpider,54.07,USD,27-06-2025,Invalid,https://chemspider.com/Toluene
+Toluene,Solvent,Solara Active Pharma Sciences,Yes,AR Grade,Crystalline,Pharma Grade,35.89,48.95,-1.55,Fair,USD,ChemSpider,54.07,USD,27-06-2025,Invalid,https://chemspider.com/Toluene
+Acetic Anhydride,Solvent,Shanghai Pharma,Yes,AR Grade,Liquid,USP,94.42,100.83,-6.36,Low,INR,SAP Ariba,109.97,INR,18-07-2025,Valid,https://sapariba.com/Acetic_Anhydride
+Acetic Anhydride,Solvent,Royal DSM,Yes,AR Grade,Liquid,USP,82.22,100.83,-6.36,Low,INR,SAP Ariba,109.97,INR,18-07-2025,Valid,https://sapariba.com/Acetic_Anhydride
+Acetic Anhydride,Solvent,Suven,Yes,AR Grade,Liquid,USP,76.12,100.83,-6.36,Low,INR,SAP Ariba,109.97,INR,18-07-2025,Valid,https://sapariba.com/Acetic_Anhydride
+Acetic Anhydride,Solvent,Piramal Pharma Solutions,Yes,AR Grade,Liquid,USP,65.16,100.83,-6.36,Low,INR,SAP Ariba,109.97,INR,18-07-2025,Valid,https://sapariba.com/Acetic_Anhydride
+Acetic Anhydride,Solvent,Kyowa Pharma Chemical Co Ltd,Yes,AR Grade,Liquid,USP,52.56,100.83,-6.36,Low,INR,SAP Ariba,109.97,INR,18-07-2025,Valid,https://sapariba.com/Acetic_Anhydride
+Citric Acid,Excipient,Zhejiang Hisoar,No,USP,Powder,Pharma Grade,34.21,33.33,2.64,Fair,EUR,SAP Ariba,31.75,EUR,19-07-2025,Invalid,https://sapariba.com/Citric_Acid
+Citric Acid,Excipient,Letco Medical,No,USP,Powder,Pharma Grade,31.26,33.33,2.64,Fair,EUR,SAP Ariba,31.75,EUR,19-07-2025,Invalid,https://sapariba.com/Citric_Acid
+Citric Acid,Excipient,Jai Radhe Sales,No,USP,Powder,Pharma Grade,29.46,33.33,2.64,Fair,EUR,SAP Ariba,31.75,EUR,19-07-2025,Invalid,https://sapariba.com/Citric_Acid
+Citric Acid,Excipient,Supriya Lifescience,No,USP,Powder,Pharma Grade,27.98,33.33,2.64,Fair,EUR,SAP Ariba,31.75,EUR,19-07-2025,Invalid,https://sapariba.com/Citric_Acid
+Citric Acid,Excipient,Hospira,No,USP,Powder,Pharma Grade,19.76,33.33,2.64,Fair,EUR,SAP Ariba,31.75,EUR,19-07-2025,Invalid,https://sapariba.com/Citric_Acid
+Piperidine,Reagent,Ennore,No,?99.0%,Powder,USP,44.31,45.93,-3.53,Fair,INR,Alibaba,44.91,INR,18-07-2025,Invalid,https://alibaba.com/Piperidine
+Piperidine,Reagent,Chengdu Puth Medical Plastics,No,?99.0%,Powder,USP,40.11,45.93,-3.53,Fair,INR,Alibaba,44.91,INR,18-07-2025,Invalid,https://alibaba.com/Piperidine
+Piperidine,Reagent,Suven,No,?99.0%,Powder,USP,39.45,45.93,-3.53,Fair,INR,Alibaba,44.91,INR,18-07-2025,Invalid,https://alibaba.com/Piperidine
+Piperidine,Reagent,Letco Medical,No,?99.0%,Powder,USP,39.31,45.93,-3.53,Fair,INR,Alibaba,44.91,INR,18-07-2025,Invalid,https://alibaba.com/Piperidine
+Piperidine,Reagent,Neuland,No,?99.0%,Powder,USP,22.76,45.93,-3.53,Fair,INR,Alibaba,44.91,INR,18-07-2025,Invalid,https://alibaba.com/Piperidine
+Magnesium Stearate,Excipient,Zhejiang Xinhua,No,EP,Granular,USP,42.98,44.02,-2.36,Fair,INR,MolPort,39.34,INR,29-06-2025,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Hetero,No,EP,Granular,USP,32.76,44.02,-2.36,Fair,INR,MolPort,39.34,INR,29-06-2025,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Intas,No,EP,Granular,USP,24.58,44.02,-2.36,Fair,INR,MolPort,39.34,INR,29-06-2025,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Globofarm International,No,EP,Granular,USP,17.67,44.02,-2.36,Fair,INR,MolPort,39.34,INR,29-06-2025,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Ajinomoto Company,No,EP,Granular,USP,15.98,44.02,-2.36,Fair,INR,MolPort,39.34,INR,29-06-2025,Valid,https://molport.com/Magnesium_Stearate
+Sodium Hydroxide,Reagent,Axplora (Novasep),No,EP,Crystalline,Pharma Grade,52.1,54.22,-3.91,Fair,INR,SAP Ariba,62.01,INR,17-07-2025,Invalid,https://sapariba.com/Sodium_Hydroxide
+Sodium Hydroxide,Reagent,Zeal MediPharma,No,EP,Crystalline,Pharma Grade,45.3,54.22,-3.91,Fair,INR,SAP Ariba,62.01,INR,17-07-2025,Invalid,https://sapariba.com/Sodium_Hydroxide
+Sodium Hydroxide,Reagent,Shanghai Pharma,No,EP,Crystalline,Pharma Grade,35.7,54.22,-3.91,Fair,INR,SAP Ariba,62.01,INR,17-07-2025,Invalid,https://sapariba.com/Sodium_Hydroxide
+Sodium Hydroxide,Reagent,Zhejiang Yongning,No,EP,Crystalline,Pharma Grade,52.1,54.22,-3.91,Fair,INR,SAP Ariba,62.01,INR,17-07-2025,Invalid,https://sapariba.com/Sodium_Hydroxide
+Sodium Hydroxide,Reagent,Intas,No,EP,Crystalline,Pharma Grade,52.1,54.22,-3.91,Fair,INR,SAP Ariba,62.01,INR,17-07-2025,Invalid,https://sapariba.com/Sodium_Hydroxide
+Hydrochloric Acid,Reagent,Titan Pharma,Yes,EP,Granular,Pharma Grade,67.21,62.87,6.9,High,INR,MolPort,61.48,INR,20-07-2025,Invalid,https://molport.com/Hydrochloric_Acid
+Hydrochloric Acid,Reagent,Rochem,Yes,EP,Granular,Pharma Grade,56.23,62.87,6.9,High,INR,MolPort,61.48,INR,20-07-2025,Invalid,https://molport.com/Hydrochloric_Acid
+Hydrochloric Acid,Reagent,Shouyuan Chemical,Yes,EP,Granular,Pharma Grade,33.76,62.87,6.9,High,INR,MolPort,61.48,INR,20-07-2025,Invalid,https://molport.com/Hydrochloric_Acid
+Hydrochloric Acid,Reagent,SIGMA TAU,Yes,EP,Granular,Pharma Grade,27.54,62.87,6.9,High,INR,MolPort,61.48,INR,20-07-2025,Invalid,https://molport.com/Hydrochloric_Acid
+Hydrochloric Acid,Reagent,Teva,Yes,EP,Granular,Pharma Grade,22.67,62.87,6.9,High,INR,MolPort,61.48,INR,20-07-2025,Invalid,https://molport.com/Hydrochloric_Acid
+Methanol,Solvent,Cadila,No,AR Grade,Crystalline,LR,30.82,32.27,-4.49,Fair,INR,SAP Ariba,33.14,INR,04-07-2025,Valid,https://sapariba.com/Methanol
+Methanol,Solvent,Zhejiang Hisun,No,AR Grade,Crystalline,LR,23.82,32.27,-4.49,Fair,INR,SAP Ariba,33.14,INR,04-07-2025,Valid,https://sapariba.com/Methanol
+Methanol,Solvent,Surajlok Chemicals,No,AR Grade,Crystalline,LR,22.72,32.27,-4.49,Fair,INR,SAP Ariba,33.14,INR,04-07-2025,Valid,https://sapariba.com/Methanol
+Methanol,Solvent,Sal Pharm,No,AR Grade,Crystalline,LR,20.57,32.27,-4.49,Fair,INR,SAP Ariba,33.14,INR,04-07-2025,Valid,https://sapariba.com/Methanol
+Methanol,Solvent,Azeema Pharma,No,AR Grade,Crystalline,LR,16.56,32.27,-4.49,Fair,INR,SAP Ariba,33.14,INR,04-07-2025,Valid,https://sapariba.com/Methanol
+Ethanol,Solvent,Ipca,No,USP,Crystalline,Pharma Grade,88.04,93.71,-6.05,Low,USD,LabNetwork,84.51,USD,11-07-2025,Invalid,https://labnetwork.com/Ethanol
+Ethanol,Solvent,ACS Dobfar,No,USP,Crystalline,Pharma Grade,82.11,93.71,-6.05,Low,USD,LabNetwork,84.51,USD,11-07-2025,Invalid,https://labnetwork.com/Ethanol
+Ethanol,Solvent,Meiji Seika,No,USP,Crystalline,Pharma Grade,80.32,93.71,-6.05,Low,USD,LabNetwork,84.51,USD,11-07-2025,Invalid,https://labnetwork.com/Ethanol
+Ethanol,Solvent,Aenor,No,USP,Crystalline,Pharma Grade,80.04,93.71,-6.05,Low,USD,LabNetwork,84.51,USD,11-07-2025,Invalid,https://labnetwork.com/Ethanol
+Ethanol,Solvent,Globofarm International,No,USP,Crystalline,Pharma Grade,78.77,93.71,-6.05,Low,USD,LabNetwork,84.51,USD,11-07-2025,Invalid,https://labnetwork.com/Ethanol
+186MM WHT OPQ PVC-ACLAR 190-152 MIC,Solvent,TekniPlex Healthcare,No,AR Grade,Crystalline,LR,1200,95.87,6.8,high,INR,Pharmacompass,75.67,INR,14-07-2025,Valid,https://Pharmacompass.com/186MM WHT OPQ PVC-ACLAR 190-152 MIC
+186MM WHT OPQ PVC-ACLAR 190-152 MIC,Solvent,Amcor Flexibles,No,AR Grade,Crystalline,LR,1250,95.87,6.8,high,INR,Pharmacompass,75.67,INR,14-07-2025,Valid,https://Pharmacompass.com/186MM WHT OPQ PVC-ACLAR 190-152 MIC
+186MM WHT OPQ PVC-ACLAR 190-152 MIC,Solvent,Kiackner Pentaplast,No,AR Grade,Crystalline,LR,1150,95.87,6.8,high,INR,Pharmacompass,75.67,INR,14-07-2025,valid,https://Pharmacompass.com/186MM WHT OPQ PVC-ACLAR 190-152 MIC
+MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG,Solvent,Merck (MilliporeSigma),Yes,USP,Crystalline,LR,450,105.76,4.2,high,INR,Pharmacompass,112.87,INR,17-07-2025,valid,https://Pharmacompass.com/MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG
+MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG,Solvent,Fisher Scientific,Yes,USP,Crystalline,LR,430,105.76,4.2,high,INR,Pharmacompass,112.87,INR,17-07-2025,valid,https://Pharmacompass.com/MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG
+MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG,Solvent,Decon Labs,Yes,USP,Crystalline,LR,420,105.76,4.2,high,INR,Pharmacompass,112.87,INR,17-07-2025,valid,https://Pharmacompass.com/MISC ABSOLUTE COLD BX 50 LTR WTOUT PLYBG
+Triethylchlorosilane (TES-Chloride),Reagent,Merck (Sigma-Aldrich),No,USP,Crystalline,LR,350,98.23,7.6,high,INR,Pharmacompass,101.34,INR,20-07-2025,valid,https://Pharmacompass.com/Triethylchlorosilane (TES-Chloride)
+Triethylchlorosilane (TES-Chloride),Reagent,TCI Chemicals,No,USP,Crystalline,LR,330,98.23,7.6,high,INR,Pharmacompass,101.34,INR,20-07-2025,valid ,https://Pharmacompass.com/Triethylchlorosilane (TES-Chloride)
+Trimethylsilyl Cyanide (TMS-CN),Reagent,Spectrum Chemical,Yes,USP,Crystalline,LR,270,89.75,6.5,high,INR,Pharmacompass,90.78,INR,22-07-2025,valid,https://Pharmacompass.com/Trimethylsilyl Cyanide (TMS-CN)
+Tapentadol HCl IP,Solvent,Sun Pharma,Yes,AR Grade,Liquid,Pharma Grade,1200,93.45,7.9,high,INR,Pharmacompass,95.45,INR,23-07-2025,valid ,https://Pharmacompass.com/Tapentadol HCl IP
